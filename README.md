@@ -1,13 +1,38 @@
 # redux-toolkit
 
+**Redux Toolkit Example** is a simple project demonstrating the usage of Redux Toolkit for state management in a React application. It showcases how to set up and manage state in a scalable, maintainable, and efficient way using the modern Redux pattern.
+
+---
+
+🚀 Features
+
+
+🔄 Simple state management using Redux Toolkit
+
+🧑‍💻 Example of Redux slice, actions, and reducers
+
+📦 Optimized store setup with Redux Toolkit configuration
+
+📱 Fully responsive UI
+
+
+✨ Easy-to-understand code and structure for beginners
+
+----
+
 🛠️ Technologies Used
-📚 Libraries
-react-router-dom: Sayfalar arası yönlendirme işlemleri için kullanılan React kütüphanesi. Uygulama içinde sorunsuz gezinme sağlar.
 
-react-redux: Uygulamanın global durumunu yönetmek için kullanılan Redux entegrasyonu. Uygulama durumunu merkezi bir şekilde yönetir.
 
-react-bootstrap: Popüler Bootstrap kütüphanesinin React sürümü. UI bileşenlerini hızlıca oluşturmak için kullanılır.
+React-
 
-uuid: Benzersiz kimlikler oluşturmak için kullanılan kütüphane, genellikle veri setlerinde her öğeye eşsiz bir ID atamak için kullanılır.
+Redux Toolkit -
 
-@reduxjs/toolkit: Redux ile yapılan state yönetimini daha hızlı ve kolay hale getiren araç seti. Redux kullanımını daha verimli kılar.
+JavaScript-
+
+CSS-
+
+---
+
+
+https://github.com/user-attachments/assets/36093e59-d127-46b7-ad05-0ce2ec738879
+
